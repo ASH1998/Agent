@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 library/
 logs/
+*meshes*
+*prefabs*
+*scenes*
